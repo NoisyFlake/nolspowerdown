@@ -1,9 +1,10 @@
 Package: com.noisyflake.nolspowerdown
 Name: NoLSPowerDown
-Depends: mobilesubstrate, firmware (>= 7.0)
-Version: 1.0.0
+Depends: mobilesubstrate
+Version: 1.0.2
 Architecture: iphoneos-arm
 Description: Prevents shutdown on lockscreen
-Maintainer: NoisyFlake <contact@noisyflake.com>
-Author: NoisyFlake <contact@noisyflake.com>
+Depiction: https://apt.noisyflake.com/depictions/index.html?id=com.noisyflake.nolspowerdown
+Maintainer: NoisyFlake
+Author: NoisyFlake
 Section: Tweaks

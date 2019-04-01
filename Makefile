@@ -1,5 +1,5 @@
 ARCHS = armv7 armv7s arm64
-PACKAGE_VERSION = $(THEOS_PACKAGE_BASE_VERSION)
+FINALPACKAGE = 1
 
 include $(THEOS)/makefiles/common.mk
 
